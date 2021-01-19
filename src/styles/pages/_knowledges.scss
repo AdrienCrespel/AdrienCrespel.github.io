@@ -1,12 +1,12 @@
 .knowledges {
     .knowledgesContent{
-        min-height: $minHeight;
+        max-height: $minHeight;
         width: 100%;
         position: relative;
         overflow: hidden;
         display: grid;
         grid-template-columns: 38% 1fr 1fr;
-        grid-template-rows: 30% 40% 30%;
+        grid-template-rows: 35% 40% 25%;
         grid-template-areas: 
             "D E E"
             "L E E"
@@ -99,9 +99,9 @@
                         content: '';
                         background: rgba(180, 179, 179, 0.5);
                         position: absolute;
-                        height: 146px;
+                        height: 260px;
                         width: 1px;
-                        transform: translate(9px, 19px);
+                        transform: translate(9px, 25px);
                     }
                 }
             }
@@ -253,8 +253,16 @@
             grid-area: D !important;
             margin-right: 0.5rem !important;
         }
-        .languages {
+        .languagesFrameworks {
             grid-area: L !important;
+            .years {
+                span {
+                    &:nth-child(2):before,
+                    &:nth-child(3):before {
+                        height: 235px !important;
+                    }
+                }
+            }
         }
         .experience {
             grid-area: E !important;

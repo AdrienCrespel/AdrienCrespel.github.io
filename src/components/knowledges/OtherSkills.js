@@ -6,16 +6,16 @@ const OtherSkills = () => {
             <h3>Autres compétences</h3>
             <div className="list">
                 <ul>
-                    <li><i className="fas fa-check-square"></i> Anglais courant</li>
+                    <li><i className="fas fa-check-square"></i> Anglais (TOEIC 805)</li>
                     <li><i className="fas fa-check-square"></i> Github</li>
-                    <li><i className="fas fa-check-square"></i> SEO</li>
+                    <li><i className="fas fa-check-square"></i> Unity3D</li>
                     <li><i className="fas fa-check-square"></i> Méthodes agiles</li>
                 </ul>
                 <ul>
-                    <li><i className="fas fa-check-square"></i> Figma</li>
-                    <li><i className="fas fa-check-square"></i> Design</li>
-                    <li><i className="fas fa-check-square"></i> Photoshop</li>
-                    <li><i className="fas fa-check-square"></i> Montage Vidéo</li>
+                    <li><i className="fas fa-check-square"></i> Android Studio</li>
+                    <li><i className="fas fa-check-square"></i> React</li>
+                    <li><i className="fas fa-check-square"></i> Machine learning</li>
+                    <li><i className="fas fa-check-square"></i> Deep learning</li>
                 </ul>
             </div>
         </div>
