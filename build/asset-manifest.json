@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AdrienCrespel.github.io/static/css/main.c2ce298a.chunk.css",
+    "main.js": "/AdrienCrespel.github.io/static/js/main.596faec6.chunk.js",
+    "main.js.map": "/AdrienCrespel.github.io/static/js/main.596faec6.chunk.js.map",
+    "runtime-main.js": "/AdrienCrespel.github.io/static/js/runtime-main.4a9fbabd.js",
+    "runtime-main.js.map": "/AdrienCrespel.github.io/static/js/runtime-main.4a9fbabd.js.map",
+    "static/js/2.e29e6968.chunk.js": "/AdrienCrespel.github.io/static/js/2.e29e6968.chunk.js",
+    "static/js/2.e29e6968.chunk.js.map": "/AdrienCrespel.github.io/static/js/2.e29e6968.chunk.js.map",
+    "static/js/3.394b5deb.chunk.js": "/AdrienCrespel.github.io/static/js/3.394b5deb.chunk.js",
+    "static/js/3.394b5deb.chunk.js.map": "/AdrienCrespel.github.io/static/js/3.394b5deb.chunk.js.map",
+    "index.html": "/AdrienCrespel.github.io/index.html",
+    "static/css/main.c2ce298a.chunk.css.map": "/AdrienCrespel.github.io/static/css/main.c2ce298a.chunk.css.map",
+    "static/js/2.e29e6968.chunk.js.LICENSE.txt": "/AdrienCrespel.github.io/static/js/2.e29e6968.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/AdrienCrespel.github.io/static/media/image_home.fd2fc53b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a9fbabd.js",
+    "static/js/2.e29e6968.chunk.js",
+    "static/css/main.c2ce298a.chunk.css",
+    "static/js/main.596faec6.chunk.js"
+  ]
+}
