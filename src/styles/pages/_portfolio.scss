@@ -218,7 +218,7 @@
         }
     }
 }
-@media (max-width: 520px){
+@media (max-width: 625px){
     .radioDisplay {
         display: none !important;
     }
@@ -232,6 +232,9 @@
             img {
                 height: 100% !important;
             }
+        }
+        .infosContent {
+            width: 100% !important;
         }
     }
 }
