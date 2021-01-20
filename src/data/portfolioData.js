@@ -42,6 +42,6 @@ export const portfolioData = [
         languagesIcons: ['fab fa-js', 'fab fa-react'],
         source: 'https://github.com/AdrienCrespel/AdrienCrespel.github.io/',
         info: "Développement d'une application web dans l'objectif de proposer une version web de mon CV ainsi que de me former à React.",
-        picture: './media/site.png'
+        picture: './media/site.jpg'
     },
 ]
