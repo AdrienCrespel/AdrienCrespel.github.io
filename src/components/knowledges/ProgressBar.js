@@ -18,7 +18,7 @@ const ProgressBar = (props) => {
 
                         return(
                             <div key={item.id} className="languagesList">
-                                <li>{item.value}</li>
+                                <h4>{item.value}</h4>
                                 <div className="progressBar" style={
                                     {width:progressBar}
                                 }></div>
